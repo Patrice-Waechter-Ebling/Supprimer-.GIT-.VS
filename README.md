@@ -12,3 +12,15 @@
 #### mise à jour de 
 + la liste des extensions
 + liste des dossiers suppressibles
+#### Modifications
++ fichier INI pour configurer :
+  + extensions à supprimer
+  + dossiers à supprimer
++ mode dry-run (simulation)
++ chemin du log
++ Log complet dans un fichier
++ Multithread
+  +  thread de scanne
+  +  thread de log
++  Barre de progression + compteur
+  +  remplacée par un affichage durectement dans le titre de la console
