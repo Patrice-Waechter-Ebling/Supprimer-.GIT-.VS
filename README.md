@@ -6,3 +6,6 @@
 + Compteur de dossiers supprimés
 + Suppression fichiers/dossiers cachés
 + Aucune dépendance externe
+#### Ajout de liste
++ dossiers prédéfinis
++ extension spécifiques
