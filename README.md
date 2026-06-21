@@ -9,3 +9,6 @@
 #### Ajout de liste
 + dossiers prédéfinis
 + extension spécifiques
+#### mise à jour de 
++ la liste des extensions
++ liste des dossiers suppressibles
